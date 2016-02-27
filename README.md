@@ -20,4 +20,5 @@ install jdk and add the install path to the windows environment 'path' (for wind
 
 open <http://www.eclipse.org/cdt/>
 ![cdt_download](https://raw.githubusercontent.com/ouiyeah/eclipse/master/img/cdt_download.png "cdt_download")
-![cdt_repository](https://raw.githubusercontent.com/ouiyeah/eclipse/master/img/cdt_repository.png "cdt_repository")
+![c dt_repository](https://raw.githubusercontent.com/ouiyeah/eclipse/master/img/cdt_repository.png "cdt_repository")
+input the repository url into eclipse's 'install new software' item as the instruction
