@@ -2,9 +2,15 @@
 
 open <https://www.eclipse.org/downloads/>
 ![eclipse_homepage](https://raw.githubusercontent.com/ouiyeah/eclipse/master/img/eclipse_homepage.png "eclipse_homepage")
-
-download and uncompress eclipse ide
 ![eclipse_download](https://raw.githubusercontent.com/ouiyeah/eclipse/master/img/eclipse_download.png "eclipse_download")
+
+download and install eclipse ide (for windows)
+
+download and uncompress eclipse ide (for linux)
+
+>$ cd eclipse-installer
+
+>$ ./eclipse-inst
 
 ***
 # setup jdk
