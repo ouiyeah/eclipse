@@ -15,6 +15,17 @@ open <http://www.oracle.com/technetwork/java/javase/downloads/index.html>
 install jdk and add the install path to the windows environment 'path' (for windows)
 ![jdk_path](https://raw.githubusercontent.com/ouiyeah/eclipse/master/img/jdk_path.png "jdk_path")
 
+uncompress jdk package and source environments (for linux)
+
+>$ sudo mv [jdk_dir] /usr/lib/jvm
+
+>$ gedit ~/.bashrc
+
+    export JAVA_HOME=/usr/lib/jvm
+    export JRE_HOME=${JAVA_HOME}/jre
+    export CLASSPATH=.:${JAVA_HOME}/lib:${JRE_HOME}/lib
+    export PATH=${JAVA_HOME}/bin:$PATH
+
 ***
 # install cdt
 
