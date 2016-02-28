@@ -15,7 +15,7 @@ open <http://www.oracle.com/technetwork/java/javase/downloads/index.html>
 install jdk and add the install path to the windows environment 'path' (for windows)
 ![jdk_path](https://raw.githubusercontent.com/ouiyeah/eclipse/master/img/jdk_path.png "jdk_path")
 
-uncompress jdk package and source environments (for linux)
+uncompress jdk package and export environments at the end of '.bashrc' (for linux)
 
 >$ sudo mv [jdk_dir] /usr/lib/jvm
 
