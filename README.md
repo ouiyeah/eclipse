@@ -19,6 +19,7 @@ open <http://www.oracle.com/technetwork/java/javase/downloads/index.html>
 ![jdk_download](https://raw.githubusercontent.com/ouiyeah/eclipse/master/img/jdk_download.png "jdk_download")
 
 install jdk and add the install path to the windows environment 'path' (for windows)
+
 ![jdk_path](https://raw.githubusercontent.com/ouiyeah/eclipse/master/img/jdk_path.png "jdk_path")
 
 uncompress jdk package and export environments at the end of '.bashrc' (for linux)
