@@ -62,3 +62,18 @@ import and config catkin in eclipse
 
 set environment 'PYTHONPATH' (e.g. /opt/ros/indigo/lib/python2.7/dist-packages for indigo)
 ![pythonpath_environment](https://raw.githubusercontent.com/ouiyeah/eclipse/master/img/pythonpath_environment.png "pythonpath_environment")
+
+create terminal inside eclipse and run roscore
+![new_terminal](https://raw.githubusercontent.com/ouiyeah/eclipse/master/img/new_terminal.png "new_terminal")
+
+>$ roscore
+
+set running configurations and environments
+![run_configurations](https://raw.githubusercontent.com/ouiyeah/eclipse/master/img/run_configurations.png "run_configurations")
+![new_environment](https://raw.githubusercontent.com/ouiyeah/eclipse/master/img/new_environment.png "new_environment")
+
+>$ cd ~/catkin_ws
+
+>$ catkin_make --force-cmake -G"Eclipse CDT4 - Unix Makefiles" -DCMAKE_BUILD_TYPE=Release
+
+![run_debug](https://raw.githubusercontent.com/ouiyeah/eclipse/master/img/run_debug.png "run_debug")
