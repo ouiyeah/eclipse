@@ -55,7 +55,7 @@ do the catkin make with eclipse build options
 
 import and config catkin in eclipse
 ![open_import](https://raw.githubusercontent.com/ouiyeah/eclipse/master/img/open_import.png "open_import")
-![select_import](https://raw.githubusercontent.com/ouiyeah/eclipse/master/img/import_catkin.png "select_import")
+![select_import](https://raw.githubusercontent.com/ouiyeah/eclipse/master/img/select_import.png "select_import")
 ![import_catkin](https://raw.githubusercontent.com/ouiyeah/eclipse/master/img/import_catkin.png "import_catkin")
 ![config_catkin](https://raw.githubusercontent.com/ouiyeah/eclipse/master/img/config_catkin.png "config_catkin")
 ![build_catkin](https://raw.githubusercontent.com/ouiyeah/eclipse/master/img/build_catkin.png "build_catkin")
