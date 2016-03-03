@@ -73,10 +73,12 @@ set running configurations and environments
 ![new_environment](https://raw.githubusercontent.com/ouiyeah/eclipse/master/img/new_environment.png "new_environment")
 note that the 'ROS_MASTER_URI' should link to roscore (e.g. http://localhost:11311)
 
-set catkin_make option 'DCMAKE_BUILD_TYPE' to 'Debug' in new terminal before running debug
+remember to set catkin_make option 'DCMAKE_BUILD_TYPE' to 'Debug' in terminal if running debug
 
 >$ cd ~/catkin_ws
 
 >$ catkin_make --force-cmake -G"Eclipse CDT4 - Unix Makefiles" -DCMAKE_BUILD_TYPE=Debug
 
 ![run_debug](https://raw.githubusercontent.com/ouiyeah/eclipse/master/img/run_debug.png "run_debug")
+
+remember to set catkin_make option 'DCMAKE_BUILD_TYPE' to 'Release' in terminal if running release
