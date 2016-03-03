@@ -57,4 +57,6 @@ import and config catkin in eclipse
 ![import_catkin](https://raw.githubusercontent.com/ouiyeah/eclipse/master/img/import_catkin.png "import_catkin")
 ![config_catkin](https://raw.githubusercontent.com/ouiyeah/eclipse/master/img/config_catkin.png "config_catkin")
 ![build_catkin](https://raw.githubusercontent.com/ouiyeah/eclipse/master/img/build_catkin.png "build_catkin")
+
+set environment 'PYTHONPATH' (e.g. /opt/ros/indigo/lib/python2.7/dist-packages for indigo)
 ![pythonpath_environment](https://raw.githubusercontent.com/ouiyeah/eclipse/master/img/pythonpath_environment.png "pythonpath_environment")
