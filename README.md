@@ -44,7 +44,8 @@ input the repository url into eclipse's 'install new software' wizard as instruc
 ![cdt_install](https://raw.githubusercontent.com/ouiyeah/eclipse/master/img/cdt_install.png "cdt_install")
 ![cdt_config](https://raw.githubusercontent.com/ouiyeah/eclipse/master/img/cdt_config.png "cdt_config")
 
-add cmake editor plugin in order to mark cmake keywords
+download [cmake editor](https://raw.githubusercontent.com/ouiyeah/eclipse/master/pkg/cmake_editor-1.1.6.zip)
+plugin for highlighting cmake keywords and add to installation
 ![cmake_editor](https://raw.githubusercontent.com/ouiyeah/eclipse/master/img/cmake_editor.png "cmake_editor")
 
 ***
