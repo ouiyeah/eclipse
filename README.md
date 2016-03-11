@@ -68,6 +68,9 @@ import and config catkin in eclipse
 set environment 'PYTHONPATH' (e.g. /opt/ros/indigo/lib/python2.7/dist-packages for indigo)
 ![pythonpath_environment](https://raw.githubusercontent.com/ouiyeah/eclipse/master/img/pythonpath_environment.png "pythonpath_environment")
 
+include directories for intelligent index (e.g. /opt/ros/indigo/include for indigo)
+![index_rebuild](https://raw.githubusercontent.com/ouiyeah/eclipse/master/img/index_rebuild.png "index_rebuild")
+
 create terminal inside eclipse and run roscore
 ![new_terminal](https://raw.githubusercontent.com/ouiyeah/eclipse/master/img/new_terminal.png "new_terminal")
 
