@@ -65,17 +65,17 @@ import and config catkin in eclipse
 ![config_catkin](https://raw.githubusercontent.com/ouiyeah/eclipse/master/img/config_catkin.png "config_catkin")
 ![build_catkin](https://raw.githubusercontent.com/ouiyeah/eclipse/master/img/build_catkin.png "build_catkin")
 
-set indentation from tab only to space only
-![set_preferences](https://raw.githubusercontent.com/ouiyeah/eclipse/master/img/set_preferences.png "set_preferences")
-![edit_formatter](https://raw.githubusercontent.com/ouiyeah/eclipse/master/img/edit_formatter.png "edit_formatter")
-![tab_policy](https://raw.githubusercontent.com/ouiyeah/eclipse/master/img/tab_policy.png "tab_policy")
-![tab_insert](https://raw.githubusercontent.com/ouiyeah/eclipse/master/img/tab_insert.png "tab_insert")
-
 set environment 'PYTHONPATH' (e.g. /opt/ros/indigo/lib/python2.7/dist-packages for indigo)
 ![pythonpath_environment](https://raw.githubusercontent.com/ouiyeah/eclipse/master/img/pythonpath_environment.png "pythonpath_environment")
 
 set include directories for intelligent index (e.g. /opt/ros/indigo/include for indigo)
 ![index_rebuild](https://raw.githubusercontent.com/ouiyeah/eclipse/master/img/index_rebuild.png "index_rebuild")
+
+set indentation from tab only to space only
+![set_preferences](https://raw.githubusercontent.com/ouiyeah/eclipse/master/img/set_preferences.png "set_preferences")
+![edit_formatter](https://raw.githubusercontent.com/ouiyeah/eclipse/master/img/edit_formatter.png "edit_formatter")
+![tab_policy](https://raw.githubusercontent.com/ouiyeah/eclipse/master/img/tab_policy.png "tab_policy")
+![tab_insert](https://raw.githubusercontent.com/ouiyeah/eclipse/master/img/tab_insert.png "tab_insert")
 
 set .launch file for xml format
 ![content_types](https://raw.githubusercontent.com/ouiyeah/eclipse/master/img/content_types.png "content_types")
