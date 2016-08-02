@@ -81,6 +81,10 @@ set .launch file for xml format
 ![content_types](https://raw.githubusercontent.com/ouiyeah/eclipse/master/img/content_types.png "content_types")
 ![content_association](https://raw.githubusercontent.com/ouiyeah/eclipse/master/img/content_association.png "content_association")
 
+set hidden files .* to be visible
+![customize_view](https://raw.githubusercontent.com/ouiyeah/eclipse/master/img/customize_view.png "customize_view")
+![file_filters](https://raw.githubusercontent.com/ouiyeah/eclipse/master/img/file_filters.png "file_filters")
+
 create terminal inside eclipse and run roscore
 ![new_terminal](https://raw.githubusercontent.com/ouiyeah/eclipse/master/img/new_terminal.png "new_terminal")
 
