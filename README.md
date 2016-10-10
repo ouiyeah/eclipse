@@ -26,7 +26,7 @@ uncompress jdk package and export environments at the end of '.bashrc' (for linu
 
 >$ sudo mv [jdk_dir] /usr/lib/jvm
 
->$ gedit ~/.bashrc
+>$ vi ~/.bashrc
 
     export JAVA_HOME=/usr/lib/jvm
     export JRE_HOME=${JAVA_HOME}/jre
