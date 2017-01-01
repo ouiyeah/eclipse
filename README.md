@@ -34,7 +34,7 @@ uncompress jdk package and export environments at the end of '.bashrc' (for linu
     export PATH=${JAVA_HOME}/bin:$PATH
 
 ***
-# install cdt
+# install plugin
 
 open <http://www.eclipse.org/cdt/>
 ![cdt_download](https://raw.githubusercontent.com/ouiyeah/eclipse/master/img/cdt_download.png "cdt_download")
@@ -47,6 +47,7 @@ input the repository url into eclipse's 'install new software' wizard as instruc
 input the repository url for pydev https://dl.bintray.com/fabioz/pydev/5.4.0/ (http://pydev.org/updates was obselete)
 
 note that pydev_mylyn_integration option is not commended due to the dependency check
+![pydev_config](https://raw.githubusercontent.com/ouiyeah/eclipse/master/img/pydev_config.png "pydev_config")
 
 download [cmake_editor-1.1.6.zip](https://raw.githubusercontent.com/ouiyeah/eclipse/master/pkg/cmake_editor-1.1.6.zip)
 
