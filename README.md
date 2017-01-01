@@ -50,6 +50,14 @@ install cmake editor plugin for highlighting cmake keywords
 ![cmake_editor](https://raw.githubusercontent.com/ouiyeah/eclipse/master/img/cmake_editor.png "cmake_editor")
 
 ***
+# install pydev
+
+input the repository url into eclipse's 'install new software' wizard as instruction
+![cdt_install](https://raw.githubusercontent.com/ouiyeah/eclipse/master/img/cdt_install.png "cdt_install")
+![cdt_config](https://raw.githubusercontent.com/ouiyeah/eclipse/master/img/cdt_config.png "cdt_config")
+
+
+***
 # setup catkin
 
 do the catkin make with eclipse build options
