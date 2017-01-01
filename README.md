@@ -44,7 +44,7 @@ input the repository url into eclipse's 'install new software' wizard as instruc
 ![cdt_install](https://raw.githubusercontent.com/ouiyeah/eclipse/master/img/cdt_install.png "cdt_install")
 ![cdt_config](https://raw.githubusercontent.com/ouiyeah/eclipse/master/img/cdt_config.png "cdt_config")
 
-input the repository url for pydev https://dl.bintray.com/fabioz/pydev/5.4.0/(http://pydev.org/updates was obselete)
+input the repository url for pydev https://dl.bintray.com/fabioz/pydev/5.4.0/  (http://pydev.org/updates was obselete)
 
 download [cmake_editor-1.1.6.zip](https://raw.githubusercontent.com/ouiyeah/eclipse/master/pkg/cmake_editor-1.1.6.zip)
 
