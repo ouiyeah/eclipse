@@ -84,12 +84,14 @@ set indentation from tab only to space only
 ![tab_policy](https://raw.githubusercontent.com/ouiyeah/eclipse/master/img/tab_policy.png "tab_policy")
 ![tab_insert](https://raw.githubusercontent.com/ouiyeah/eclipse/master/img/tab_insert.png "tab_insert")
 
-set .launch file for xml format
+set .launch file for xml format and set .sh file for cmake format
 ![content_types](https://raw.githubusercontent.com/ouiyeah/eclipse/master/img/content_types.png "content_types")
 ![content_association](https://raw.githubusercontent.com/ouiyeah/eclipse/master/img/content_association.png "content_association")
+![file_associations](https://raw.githubusercontent.com/ouiyeah/eclipse/master/img/file_associations.png "file_associations")
 
 set hidden files .* to be visible
-![customize_view](https://raw.githubusercontent.com/ouiyeah/eclipse/master/img/customize_view.png "customize_view")
+![customize_view](https://raw.githubusercontent.com/ouiyeah/eclipse/master/img/custom![content_association](https://raw.githubusercontent.com/ouiyeah/eclipse/master/img/content_association.png "content_association")
+ize_view.png "customize_view")
 ![file_filters](https://raw.githubusercontent.com/ouiyeah/eclipse/master/img/file_filters.png "file_filters")
 
 create terminal inside eclipse and run roscore
